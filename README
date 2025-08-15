@@ -1,0 +1,31 @@
+# Análisis del uso del celular
+
+## Objetivo del proyecto
+Analizar el tiempo de uso del celular durante una semana, identificando patrones de comportamiento digital a partir de los datos recopilados desde la función de bienestar digital del dispositivo.
+
+## Fuente de datos
+Los datos fueron extraídos de la aplicación de bienestar digital integrada en un dispositivo Android. Esta información incluye tiempo total de uso, apps más utilizadas y frecuencia de desbloqueo.
+
+## Herramientas utilizadas
+- Google Sheets
+- Excel
+- Gráficos de Google
+- Markdown para documentación
+
+## Visualizaciones
+- Gráfico de barras: Apps más utilizadas
+- Gráfico de líneas: Uso diario total del celular
+- Gráfico de pastel: Distribución porcentual del uso por app
+
+## Enfoque
+1. Recolección de datos del celular
+2. Organización y limpieza en Google Sheets
+3. Análisis exploratorio básico
+4. Creación de visualizaciones
+5. Reflexión sobre hábitos de uso digital
+
+## Estado
+Proyecto completo y publicado como parte del curso Data Analytics Essentials.
+
+## Créditos
+Desarrollado por Diego como parte de su portafolio de análisis de datos.
